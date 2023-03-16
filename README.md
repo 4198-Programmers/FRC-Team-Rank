@@ -10,3 +10,8 @@ Please note that while files and data are here. This is not a finished project y
 To build it from source you first need to have [rust](https://rust-lang.org) installed, and then go  into the directory using your terminal of choice and use the command `cargo build --release`<br>
 When it is done building, the binary will be located in `/target/release/` as `teamrank`
 
+## Contributing
+
+If you would like to contribute to the project you can do any of the following.
+* Make a fork and commit and merge your changes
+* Add anything like bugs or anything you want added to the issues page
