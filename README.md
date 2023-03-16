@@ -7,4 +7,5 @@ Please note that while files and data are here. This is not a finished project y
 
 ## How to compile
 
-First, you need rustlang installed on your device. You can do this by following the instructions in https://rust-lang.org. Next, clone the repository or download and unpack it. In a terminal, set your directory to the new folder.
+When it is done building, the binary will be located in `/target/release/` as `teamrank`
+
